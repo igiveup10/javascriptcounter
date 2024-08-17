@@ -1,0 +1,26 @@
+#minus{
+font-size:20px;
+padding:5px;
+background-color:aquamarine;
+padding:10px;
+}
+#reset{
+    font-size:20px;
+    padding:5px;
+    background-color:aquamarine;   
+     padding:10px;
+}
+#plus{
+font-size:20px;
+padding:5px;
+background-color:aquamarine;right:10px;
+padding:10px;
+}
+#label{
+    font-size:6em;
+    padding:75px;
+
+}
+#div{
+    text-align:center;
+}
